@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="excelToExcel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.FileChooserController">
+   <children>
+      <Button layoutX="92.0" layoutY="107.0" mnemonicParsing="false" onAction="#choseFile" text="Select file..." />
+      <Button fx:id="production" layoutX="423.0" layoutY="107.0" mnemonicParsing="false" onAction="#choseFile2" text="Select file..." />
+      <Button fx:id="run" layoutX="269.0" layoutY="314.0" mnemonicParsing="false" onAction="#runProgram" text="Run" />
+      <Label layoutX="8.0" layoutY="72.0" text="Click here to select traceability list:" />
+      <Label layoutX="333.0" layoutY="72.0" text="Click here to select production order:" />
+   </children>
+</AnchorPane>

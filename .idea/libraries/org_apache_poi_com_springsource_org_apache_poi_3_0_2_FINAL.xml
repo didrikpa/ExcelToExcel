@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.apache.poi:com.springsource.org.apache.poi:3.0.2.FINAL" type="repository">
+    <properties maven-id="org.apache.poi:com.springsource.org.apache.poi:3.0.2.FINAL" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/com.springsource.org.apache.poi/3.0.2.FINAL/com.springsource.org.apache.poi-3.0.2.FINAL.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
